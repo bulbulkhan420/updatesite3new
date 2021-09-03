@@ -1,0 +1,18 @@
+.isohead{
+    margin: 3% 1%;
+    font-size: 12px;
+}
+.filterb{
+    display: grid;
+    grid-template-areas: 
+    'pt1'
+    'pt2'
+    'pt3'
+    'pt4'
+    'pt5'
+    'pt6'
+    'pt7'
+    'pt8'
+    ;
+    width: 100%;
+}

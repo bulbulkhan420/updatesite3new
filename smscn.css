@@ -1,0 +1,86 @@
+.navb ul{
+    display: none;
+}
+.banner{
+    top:0px;
+}
+.navb .barc{
+    display: inline-block;
+}
+.text h1{
+    font-size: larger;
+}
+.icong{
+    font-size: 15px;
+    padding: 8px 10px 8px 10px;
+    left: 8%;
+}
+.dlt{
+    display: block;
+}
+.iconl{
+    font-size: 15px;
+    padding: 8px 10px 8px 10px;
+    right: 8%;
+}
+.offer{
+    display: grid;
+    margin: 0px 5%;
+    grid-template-areas: 
+    'off1'
+    'off2'
+    'off3'
+    'off4'
+    'off5'
+    'off6'
+    ;
+}
+.weare{
+    display: grid;
+    width: 100%;
+    grid-template-areas:
+    'pic' 
+    'con'
+    ;
+}
+.pm{
+    margin-top: 6%;
+}
+.btp{
+  margin-top: 4%;
+}
+.isohead{
+    margin: 3% 7%;
+    font-size: smaller;
+}
+.drag1 i{
+    transform: scale(2);
+}
+.foot{
+    display: grid;
+    grid-template-areas:
+    'fo1'
+    'fo2'
+    'fo3'
+    'fo4'
+     ;
+     width: 90%;
+     margin: 5%;
+}
+.footend div p{
+    font-size: 10px;
+}
+.filterb{
+    display: grid;
+    grid-template-areas: 
+    'pt1'
+    'pt2'
+    'pt3'
+    'pt4'
+    'pt5'
+    'pt6'
+    'pt7'
+    'pt8'
+    ;
+    width: 100%;
+}
